@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff6a00"/>
+      <stop offset="100%" stop-color="#ff3d81"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="50" rx="8" fill="transparent" />
+  <g transform="translate(8,4)">
+    <circle cx="18" cy="18" r="14" fill="url(#g)" />
+    <path d="M10 18 L18 12 L26 18 L18 24 Z" fill="#fff" opacity="0.95" />
+    <text x="48" y="26" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="20" fill="#111">Rydo</text>
+  </g>
+</svg>
